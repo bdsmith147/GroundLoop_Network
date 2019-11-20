@@ -1,0 +1,18 @@
+,Comp. 1,Comp. 2,NI 1,NI 2,NI 3,PBlaster,P. Supply,NT 1,NT 2,Trig. Box,GND,F. Counter,RF Mixer,RF Amp,RF P. Supply,RF Switch,uW Amp
+Comp. 1,-,x,x,x,,,,x,x,,x,,,,,,
+Comp. 2,,-,,,x,,,,,,x,,,,,,
+NI 1,,,-,,,x,,,,,,,x,,,,
+NI 2,,,,-,,x,,,,,,,,,,,
+NI 3,,,,,-,x,,,,,,,,,,,
+PBlaster,,,,,,-,,x,x,x,x,,,,,x,
+P. Supply,,,,,,,-,,,x,x,,,,,x,x
+NT 1,,,,,,,,-,,,x,x,x,,,,
+NT 2,,,,,,,,,-,,x,,,,,,x
+Trig. Box,,,,,,,,,,-,,,,,,,
+GND,,,,,,,,,,,-,x,,,x,,
+F. Counter,,,,,,,,,,,,-,x,,,,
+RF Mixer,,,,,,,,,,,,,-,,,x,
+RF Amp,,,,,,,,,,,,,,-,x,x,
+RF P. Supply,,,,,,,,,,,,,,,-,,
+RF Switch,,,,,,,,,,,,,,,,-,
+uW Amp,,,,,,,,,,,,,,,,,-
